@@ -72,7 +72,7 @@ ethers-middleware = { version = "2.0.7", default-features = false }
 ethers-etherscan = { version = "2.0.7", default-features = false }
 ethers-solc = { version = "2.0.7", default-features = false }
 
-solang-parser = "=0.3.0"
+solang-parser = "=0.3.3"
 
 [patch.crates-io]
 # ethers = { path = "../ethers-rs/ethers" }
